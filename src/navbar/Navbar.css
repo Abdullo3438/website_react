@@ -1,0 +1,40 @@
+.navbar {
+    width: 90%;
+    height: 70px;
+    margin: auto;
+}
+
+.navbar .all_detail {
+    width: 35%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+
+.all_detail .ul_nav {
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
+
+
+
+.ul_nav a {
+    text-decoration: none;
+    color: #757B8A;
+    font-size: 16px;
+    transition: .4s;
+    font-weight: 700;
+    font-family: sans-serif;
+}
+
+
+
+.ul_nav a:hover {
+    color: #EB6E46;
+}
+
+

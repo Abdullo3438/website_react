@@ -1,0 +1,148 @@
+.footer_2 {
+    width: 100%;
+    padding: 70px  0px 0px  0px;
+
+}
+
+.ready {
+    width: 90%;
+    margin: auto;
+    display: flex;
+    height: 400px;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+
+.get_start h1 {
+    width: 90%;
+    font-size: 45px;
+    font-family: sans-serif;
+}
+
+
+.get_start p {
+    padding: 20px 0px;
+    color: #878787;
+}
+
+
+.get_start .Input_btn {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 50px 0px 0px 0px;
+}
+
+
+.Input_btn input {
+    width: 76%;
+    height: 45px;
+    border: none;
+    text-indent: 15px;
+    border-bottom: 1px solid #ccc;
+    background: none;
+    outline: none;
+    font-size: 17px;
+
+
+    }
+
+.Input_btn button {
+    width: 22%;
+    border-radius: 30px;
+    border: none;
+    background: #EB6E46;
+    color: white;
+}
+
+.maybe {
+    width: 34%;
+}
+
+.maybe h1 {
+    font-size: 25px;
+    font-family: sans-serif;
+}
+
+.maybe div {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px 0px;
+}
+
+.maybe div p {
+    font-size: 18px;
+    color: #878787;
+}
+
+.nn {
+    margin-top: 20px;
+}
+
+.nn2 {
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+}
+
+.icon_brand {
+    width: 90%;
+    margin: auto;
+    height: 90px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-top: 1px solid #ccc;
+}
+
+
+.icon_brand .left_brand {
+    width: 57%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.icon_all {
+    width: 27%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.icon_all img {
+    width: 30px;
+    height: 30px;
+}
+
+
+.left_brand ul {
+    width: 60%;
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+
+}
+
+.left_brand a{
+    text-decoration: none;
+    color: #101010;
+    transition: .4s;
+}
+
+
+
+
+
+.icon_brand .right_email {
+    width: 30%;
+    display: flex;
+    justify-content: flex-end;
+}
+
+
+.right_email a{
+    text-decoration: none;
+    color: black;
+}

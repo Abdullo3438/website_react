@@ -1,0 +1,47 @@
+.humans {
+    width: 100%;
+    padding: 40px 0px;
+    background: white;
+}
+
+
+.humans .start {
+    width: 88%;
+    margin: 25px auto;    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.start h1 {
+    width: 50%;
+    font-size: 40px;
+    font-family: sans-serif;
+}
+
+.start p {
+    width: 30%;
+    color: #757B8A;
+}
+
+
+.human {
+    width: 88%;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    padding: 20px 0px;
+}
+
+.young{
+    width: 23%;
+}
+
+.young h1 {
+    font-size: 25px;
+    margin: 5px 0px;
+}
+
+.young span {
+    color: #757B8A;
+}

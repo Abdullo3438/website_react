@@ -1,0 +1,87 @@
+.costumer {
+    width: 100%;
+   
+    height: 600px;
+}
+
+.costumer .Make_website {
+    width: 80%;
+   
+    margin: auto;
+    height: 100%;
+    display: flex;
+}
+
+
+.left_cost {
+    width: 50%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+.Mijoz {
+    width: 350px;
+    height: 500px;
+    border-radius: 40%;
+    background-image: url("../images/Image.png");
+    background-size: cover;
+    position: relative;
+}
+
+
+.Mijoz .pro {
+    width: 450px;
+    height: 240px;
+    position: absolute;
+    bottom: -70px;
+    left: 30px;
+}
+
+.right_cost {
+    width: 50%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.informal {
+    width: 90%;
+}
+
+
+.informal h1 {
+    font-size: 44px;
+    font-family: sans-serif;
+
+}
+
+.informal p {
+     margin: 20px 0px;
+}
+
+.informal .smal_box{
+    width: 100%;   
+    padding: 50px 0px 0px 0px;
+    margin-top: 30px;
+    display: flex;
+    gap: 20px;
+}
+
+.smal_box div{
+    width: 140px;
+}
+
+.smal_box div h1 {
+     font-size: 40px;
+}
+
+.smal_box div p{
+    color: #757B8A;
+    margin: 10px 0px;
+}
